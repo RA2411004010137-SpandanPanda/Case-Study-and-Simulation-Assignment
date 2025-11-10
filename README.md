@@ -5,7 +5,7 @@ Successfully Completed Case Study and Simulation Assignment on Electromagnetic T
 Created on: 10 November 2025
 
 Note:
-The case study report is a 20-page PDF.
+The case study and simulation assignment is a 20-page PDF.
 To view it properly on GitHub:
 
 Click on the PDF file in the repository.
